@@ -1,2 +1,1 @@
-# portfolio
-portfolio project to learn github/netlify
+# my-simple-portfolio
